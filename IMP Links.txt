@@ -1,0 +1,60 @@
+Adding file into the git fordummy done
+-----------------------------------------------------------------------------------------------------------------------------
+1. To use VIM commands
+https://github.com/vim/vim-win32-installer/releases
+
+---------------------------------------------------------------------------------------------
+2. Git Installation link
+https://git-scm.com/downloads
+
+
+Git hub login
+
+Summary: In this video, you learnt about the following topics:
+
+Setting up your GitHub account
+
+Creating  a repository on GitHub
+
+Configuring git for the very first time
+
+Making a commit
+
+Pushing commits in your local repository from the command line to your repository on GitHub
+
+Basic git commands: click here (These commands will help you throughout the course in case you forget anything)
+
+ 
+
+Here are your takeaways:
+
+First time git setup:
+
+For the first time git configuration, you use the following commands:
+
+git config --global user.name "random”
+
+Using this, you will enter your GitHub username
+git config --global user.email “random@example.com”
+Using this, you will enter your GitHub username
+
+Making a commit and pushing your changes to GitHub:
+
+Commands to be executed are —
+
+git init
+
+git add filename
+
+git commit -m “commit message”
+
+git remote add origin <url of the remote repository>
+
+git push -u origin master
+
+
+git commands link:
+
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+--------------------------------------------------------------------------------------------
