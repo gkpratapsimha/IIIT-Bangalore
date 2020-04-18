@@ -1,5 +1,7 @@
 Adding file into the git fordummy done
 Third changes in the git
+----------------------------------------------Hello-----------------------------------------------------------------------
+Changes have been made
 -----------------------------------------------------------------------------------------------------------------------------
 1. To use VIM commands
 https://github.com/vim/vim-win32-installer/releases
